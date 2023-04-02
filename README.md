@@ -56,7 +56,7 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 </details>
 
  <details>
- <summary><h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> Diven Coding Journey</h3></summary>
+ <summary><h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> My Coding Journey</h3></summary>
   I began my coding journey as a curious and passionate 15-year-old student, eager to learn everything I could about the programming world. Driven by my thirst for knowledge, I taught myself data analysis and the basics of Artificial Intelligence algorithms, with the dream of building your own AI.<br/>
 However, as I continued to learn and grow, this dream was overshadowed by my desire to excel in the Web and Software development field. I worked tirelessly to expand my skills and knowledge. Within just three months of shifting my focus, I landed a job as a full-stack developer, a testament of my hard work and dedication.<br/>
 Currently, I'm employed at Rhombus Global Services as a Junior Software Developer, with 1.5 years of experience under my belt. My commitment to excellence and my passion for technology continue to drive me forward, and I’m excited to see where my journey as a software developer takes me next.
