@@ -50,11 +50,14 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 </p>
 
 <details>
-  <summary><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>GitHub Stats</summary>
+  <summary><h3><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "45"/> GitHub Stats</h3></summary>
 
   <img align="left" alt="Diven Khatri's Github stats" src="https://github-readme-stats.vercel.app/api?username=dewo952&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
  <details>
- <summary><h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Diven Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> Diven Coding Journey</h3></summary>
+  I began my coding journey as a curious and passionate 15-year-old student, eager to learn everything I could about the programming world. Driven by my thirst for knowledge, I taught myself data analysis and the basics of Artificial Intelligence algorithms, with the dream of building your own AI.<br/>
+However, as I continued to learn and grow, this dream was overshadowed by my desire to excel in the Web and Software development field. I worked tirelessly to expand my skills and knowledge. Within just three months of shifting my focus, I landed a job as a full-stack developer, a testament of my hard work and dedication.<br/>
+Currently, I'm employed at Rhombus Global Services as a Junior Software Developer, with 1.5 years of experience under my belt. My commitment to excellence and my passion for technology continue to drive me forward, and I’m excited to see where my journey as a software developer takes me next.
+
