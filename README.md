@@ -3,12 +3,6 @@
 **`Digital Builder (Developer/Designer/Debugger)`**
 
 I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applications and Mobile Application using React-Js and React-Native that leads to the success of the overall product. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-
-   <p align="left">
-      <a href="https://github.com/dewo952?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
