@@ -1,6 +1,6 @@
-# 🏄‍♂️ Diven Khatri
+# 🕵️‍♂️ Diven Khatri
 
-**`Digital Builder (Developer/Designer)`**
+**`Digital Builder (Developer/Designer/Debugger)`**
 
 I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applications and Mobile Application using React-Js and React-Native that leads to the success of the overall product. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
