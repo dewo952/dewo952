@@ -44,5 +44,14 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divenkhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divenkhatri" width="30px" /></a>
+<a href="https://dev.to/divenkhtri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divenkhtri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divenkhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divenkhatri" height="30" width="40" /></a>
+<a href="https://instagram.com/dewo952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewo952" height="30" width="40" /></a>
 </p>
+
+<details>
+  <summary>: GitHub Stats</summary>
+
+  <img align="left" alt="Diven Khatri's Github stats" src="https://github-readme-stats.vercel.app/api?username=dewo952&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
