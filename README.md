@@ -35,7 +35,7 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 
 - 🔭 I’m currently working at **Rhombhus Global Services**
 
-- 🌱 I’m currently learning **Advanced Javascript and Javascrip Data Structures and Algorithms**
+- 🌱 I’m currently learning **Advanced Javascript and Javascript Data Structures and Algorithms**
 
 - 👨‍💻 See my [work](https://diven-khatri-portfolio.vercel.app/)
 
