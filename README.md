@@ -32,8 +32,6 @@ Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building rob
 
 #
 
-- 🔭 I’m currently working at **Thinkbar**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 See my [work](https://divenkhatri.in/)
