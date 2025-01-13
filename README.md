@@ -13,22 +13,21 @@ Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building rob
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 #
@@ -41,21 +40,44 @@ Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building rob
 
 - 📫 Work Email **divenkhtri@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divenkhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divenkhatri" height="30" width="40" /></a>
-  <a href="https://instagram.com/dewo952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewo952" height="30" width="40" /></a>
-  <a href="https://dev.to/divenkhtri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divenkhtri" height="30" width="40" /></a>
-</p>
-
 #
 
  <details>
  <summary><h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> My Coding Journey</h3></summary>
-  I began my coding journey as a curious and passionate 15-year-old student, eager to learn everything I could about the programming world. Driven by my thirst for knowledge, I taught myself data analysis and the basics of Artificial Intelligence algorithms, with the dream of building my own AI.<br/>
-However, as I continued to learn and grow, this dream was overshadowed by my desire to excel in the Web and Software development field. I worked tirelessly to expand my skills and knowledge. Within just three months of shifting my focus, I landed a job as a full-stack developer, a testament of my hard work and dedication.<br/>
-Currently, I'm employed at Rhombus Global Services as a Junior Software Developer, with 1.5 years of experience under my belt. My commitment to excellence and my passion for technology continue to drive me forward, and I’m excited to see where my journey as a software developer takes me next.
-</details>
+# My Journey in Tech
+
+I began my coding journey as a curious and passionate 15-year-old, eager to explore the world of programming. Initially fascinated by data analysis and Artificial Intelligence algorithms, I pursued my dream of building AI systems. By the age of 18, after completing a Google course, I started working as a **Data Analyst**, which laid a strong foundation for my technical skills.
+
+Soon after, I transitioned into the role of a **Data Scientist**, further honing my expertise in analyzing and interpreting data. However, due to the low job market at the time, I shifted my focus to **Web Development**—a decision that transformed my career trajectory. With relentless dedication and consistent learning, I mastered key web development technologies. At the age of 20, I landed my first job as a **full-stack developer**, a testament to my adaptability and determination.
+
+Since then, my professional journey has been marked by significant growth and accomplishments:
+
+## Experience
+
+### Senior Web Developer  
+**(Jan 2025 – Present)**  
+Delivering innovative, high-performing web solutions.
+
+### Senior Software Engineer & Team Lead  
+**(March 2023 – Dec 2024)**  
+- Designed comprehensive dashboards, built scalable microservices, integrated machine learning and NLP models.  
+- Led a team of five developers to deliver 70+ modular microservices and multiple mobile and web applications.
+
+### Full-Stack Engineer  
+**(Freelance, Aug 2022 – Feb 2023)**  
+- Crafted visually appealing and feature-rich web and mobile applications for diverse clients.  
+- Utilized technologies like React.js, Angular, Ionic, and React Native.
+
+### React Developer  
+**(Jan 2022 – Aug 2022)**  
+- Created custom e-commerce solutions, including React Native apps and a WhatsApp chatbot.  
+- Maintained high-quality WordPress-based platforms.
+
+---
+
+With over 3 years of experience, I’ve mastered advanced frameworks and tools, from **React.js** and **Next.js** to **Django** and **GCP BigQuery**. My expertise spans full-stack development, mobile app excellence, scalable microservices, and cutting-edge analytics integration.
+
+My journey is fueled by a passion for technology and a commitment to excellence. I am excited to continue driving impactful projects and exploring new frontiers in Web and Software Development.
 
 <details>
   <summary><h3><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "45"/> GitHub Stats</h3></summary>
