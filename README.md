@@ -2,7 +2,7 @@
 
 **`Digital Builder (Developer/Designer/Debugger)`**
 
-I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applications and Mobile Application using React-Js and React-Native that leads to the success of the overall product. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building robust and user-centric applications. I work with fast-growing startups and established businesses to create scalable, efficient, and secure web solutions that drive engagement and growth.
 
   <p align="left">
  <a href="https://github.com/dewo952?tab=followers">
@@ -24,7 +24,7 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -33,11 +33,11 @@ I'm a Frontend Developer specialized in building UI/UX of Websites, Web Applicat
 
 #
 
-- 🔭 I’m currently working at **Rhombhus Global Services**
+- 🔭 I’m currently working at **Thinkbar**
 
-- 🌱 I’m currently learning **Advanced Javascript and Javascript Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 See my [work](https://diven-khatri-portfolio.vercel.app/)
+- 👨‍💻 See my [work](https://divenkhatri.in/)
 
 - 📫 Work Email **divenkhtri@gmail.com**
 
